@@ -6,7 +6,5 @@ permalink: /
 ---
 
 # Welcome
+lalalalalaa
 
-<center>
-   Greed
-   <center>
