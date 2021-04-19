@@ -1,6 +1,3 @@
-<center>
-   GREED
-  <center>
 
 ---
 title: /
@@ -10,4 +7,6 @@ permalink: /
 
 # Welcome
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+<center>
+   Greed
+   <center>
