@@ -7,5 +7,5 @@ permalink: /
 <center>
   # GREED
   <center>
-lalalalalaa
+
 
