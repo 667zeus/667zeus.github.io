@@ -4,6 +4,8 @@ layout: home
 permalink: /
 ---
 
-# GREED
+<center>
+  # GREED
+  <center>
 lalalalalaa
 
