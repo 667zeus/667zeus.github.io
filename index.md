@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <b><center>
-  GREEDz
+  GREED
 <center><b>
 
 
