@@ -1,3 +1,7 @@
+<center>
+   GREED
+  <center>
+
 ---
 title: /
 layout: home
